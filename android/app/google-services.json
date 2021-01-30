@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528952353731",
+    "firebase_url": "https://cosmetics-73ec1.firebaseio.com",
+    "project_id": "cosmetics-73ec1",
+    "storage_bucket": "cosmetics-73ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528952353731:android:756e1a60f5164987421376",
+        "android_client_info": {
+          "package_name": "com.tiagomariano.cosmeticsnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528952353731-7jo3if3imvhjsjocumigqa5i0hjg84nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2FwR6Vu6GqZLw-OwUB6qog7OA5I3qA8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528952353731-7jo3if3imvhjsjocumigqa5i0hjg84nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
